@@ -1,4 +1,4 @@
-# RAG_-Application_in_Python
+# RAG-Application_in_Python
 As a part of AI ML course in UT Austin, completed this project
 
 **Objective**
